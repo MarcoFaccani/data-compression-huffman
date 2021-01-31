@@ -2,9 +2,9 @@
 A data compression algorithm reduces the amount of memory required to represent a message. The compressed data, in turn, helps to reduce the transmission time from a sender to receiver. The sender encodes the data, and the receiver decodes the encoded data.
 In this project, I have implemented the logic for both encoding and decoding.
 
-Time complexity encode: O(nlogn) where 'n' is the input, that is the string's length to encode
-Time complexity decode: O(n) where 'n' is the input, that is the encoded string's length to decode
-Space complexity encode: O(n) where n are the unique chars in the string
+- Time complexity encode: O(nlogn) where 'n' is the input, that is the string's length to encode
+- Time complexity decode: O(n) where 'n' is the input, that is the encoded string's length to decode
+- Space complexity encode: O(n) where n are the unique chars in the string
 
 
 ## Wikipedia's definition of Huffman Coding
